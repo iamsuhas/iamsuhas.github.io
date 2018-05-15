@@ -1,2 +1,2 @@
-# suhaspatil24.github.io
+# iamsuhas.github.io
 This is my website
